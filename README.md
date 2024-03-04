@@ -1,76 +1,115 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+<h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
 
-<br/>
+### 👨‍💻 BIO 👨‍💻:
+- 🏫 I'm a student at Universite Toulouse 3 - Paul Sabatier . I major in Electrical Engineering and Automation.
+- I have a strong passion for coding and take great interest in engaging with advanced web technologies, including ReactJS and NextJS.
+- My previous intern is at LEDTEK as a Electrical Engineering⚡.
 
-<center>
+### Connect with me:
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+<a href="https://dinhduckhoi.github.io/" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/website-%23ED8B00?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/duckhoidinh/" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dinhduckhoi2015@gmail.com" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/email-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</center>
+---
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dinhduckhoi&show_icons=true&icon_color=fff&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="vuthanhtung" />
 
-## TL;DR
+<table>
+<tr>
+<!-- <td>
+<a href="https://github.com/dinhduckhoi/sudoku-undo-redo">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=sudoku-undo-redo&theme=radical"/>
+</a>     -->
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+<!-- <a href="https://github.com/dinhduckhoi/3DCNN-Attention-mechanism/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhduckhoi&repo=3DCNN-Attention-mechanism&theme=merko" />
+</a>
 
-## Built With
+<a href="https://github.com/dinhduckhoi/StyleTransferWGNN/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhduckhoi&repo=StyleTransferWGNN&theme=gruvbox" />
+</a>    
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+<a href="https://github.com/dinhduckhoi/archeometal/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhduckhoi&repo=archeometal&theme=dark" />
+</a>
+</td>
 
-This project was built using these technologies.
+<td>
+<a href="https://github.com/dinhduckhoi/frinine-front">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhduckhoi&repo=frinine-front&theme=onedark" />
+</a> 
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+<a href="https://github.com/dinhduckhoi/The-Demo-Game/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhduckhoi&repo=The-Demo-Game&theme=highcontrast" />
+</a>
 
-## Features
+<a href="https://github.com/dinhduckhoi/ODMR-FOTON/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhduckhoi&repo=ODMR-FOTON&theme=synthwave" />
+</a>    
 
-**📖 Multi-Page Layout**
+<a href="https://github.com/dinhduckhoi/Comptetive-programming/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhduckhoi&repo=Comptetive-programming&theme=dracula" />
+</a>
+</td>
+</tr>
+</table>
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+![LeetCode Stats](https://leetcard.jacoblin.cool/vuthanhtung2412?theme=unicorn&font=Noto%20Sans) --> -->
 
-**📱 Fully Responsive**
+<h1 align="center">⚡⚡TECHSTACK⚡⚡</h1>
 
-## Getting Started
+### Web:
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>  -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40"/> -->
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/> 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40"/>  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/> 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/> 
+<img src="./shell_logo.png" height="40"/>  -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40"/>  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40"/>
 
-## 🛠 Installation and Setup Instructions
+<!-- ### Data and AI tools:    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> <img src="./spark_icon.png" height="40"/> -->
+     
+<!-- ### DevOps Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40"/> <img src="./elk_icon.webp" height="40"/>
+            -->
+<!-- ### Game Developement:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/> -->
 
-1. Installation: `npm install`
+<!-- ### Quantum Developement:
+<img src="./qiskit_icon.svg" height="40"/> -->
 
-2. In the project directory, you can run: `npm start`
+<h1 align="center"> 🐍 My Contribution Graph 🐍 </h1>
+<img src="https://github.com/dinhduckhoi/dinhduckhoi/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+          
+          
