@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce10631c.css",
+    "main.js": "/static/js/main.1c64a345.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.b3e4c5e7ae8e0a9b14cd.jpg",
+    "static/media/about.png": "/static/media/about.07a0260c2f626461b6a2.png",
+    "static/media/logo.png": "/static/media/logo.07a0260c2f626461b6a2.png",
+    "static/media/avatar.svg": "/static/media/avatar.a1b1ddad4d673b1129848e318127884d.svg",
+    "static/media/home-main.svg": "/static/media/home-main.a1b1ddad4d673b1129848e318127884d.svg",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/CV Resume English.pdf": "/static/media/CV Resume English.06a8b80ddbf0851fab00.pdf",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.ce10631c.css.map": "/static/css/main.ce10631c.css.map",
+    "main.1c64a345.js.map": "/static/js/main.1c64a345.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce10631c.css",
+    "static/js/main.1c64a345.js"
+  ]
+}
