@@ -8,6 +8,7 @@ function Type() {
         strings: [
           "Web Developer",
           "Game Mods Creator",
+          "Bug Bounty Hunter",
         ],
         autoStart: true,
         loop: true,
